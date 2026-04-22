@@ -24,5 +24,6 @@
   </picture>
 </a>
 
-
+<a href="https://next.ossinsight.io/widgets/official/analyze-user-contribution-time-distribution?user_id=12960671&period=all_times" target="_blank" style="display: block" align="center">
+  <picture>
 
